@@ -7,9 +7,10 @@ I'm Software Engineer, passionate in finding creative solutions across the techn
  - Akamai
  - Encore Capital
  - SalesforceIQ
+ - LumenUp (Current Creative Drive Latam)
  - Hotel Tonight
  - Molekule
- - Inperity
+ - Insperity
  - And others more...
 
 #### 🌱  I’m currently learning ...
