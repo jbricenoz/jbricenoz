@@ -1,13 +1,13 @@
 ### Hi there 👨‍💻
 
-I'm Software Engineer, passionate in finding creative solutions across the technology with over 8 years in the industry, who loves building amazing and ambitious products from the beginning to the end. I love to combine the passion for learning, details, teaching, and innovate with the software development and leadership skills to continue building personalized and creative products for people and the internet.
+I'm Software Engineer, passionate in finding creative solutions across the technology with over 10 years in the industry, who loves building amazing and ambitious products from the beginning to the end. I love to combine the passion for learning, details, teaching, and innovate with the software development and leadership skills to continue building personalized and creative products for people and the internet.
 
 #### 💬  I was part of campanies like ...
  - Equifax
  - Akamai
  - Encore Capital
  - SalesforceIQ
- - LumenUp (Current Creative Drive Latam)
+ - LumenUp (Double Digit -> Creative Drive Latam -> Now Adquisition of Accenture)
  - Hotel Tonight
  - Molekule
  - Insperity
