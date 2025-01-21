@@ -1,30 +1,35 @@
 ### Hi there 👨‍💻
 
-I'm Software Engineer, passionate in finding creative solutions across the technology with over 10 years in the industry, who loves building amazing and ambitious products from the beginning to the end. I love to combine the passion for learning, details, teaching, and innovate with the software development and leadership skills to continue building personalized and creative products for people and the internet.
+As a seasoned Software Engineer with over 14 years of experience, I am passionate about crafting innovative technology solutions and transforming ambitious ideas into successful products from concept to completion. I thrive on the challenge of blending my learning enthusiasm, attention to detail, and teaching abilities with my software development and leadership expertise. My goal is to continuously create personalized and impactful products that enhance user experiences and drive internet innovations.
 
-#### 💬  I was part of campanies like ...
+#### 💬  I was part of companies like ...
  - Equifax
  - Akamai
  - Encore Capital
  - SalesforceIQ
- - LumenUp (Double Digit -> Creative Drive Latam -> Now Adquisition of Accenture)
+ - LumenUp (Double Digit -> Creative Drive Latam -> Now Acquisition of Accenture)
  - Hotel Tonight
  - Molekule
  - Insperity
+ - VHS Lab (Web3 Blockchain Gaming Company in Australia)
+ - Meez (Culinary System for restaurant production lines in NYC).
+ - Fox Media (Media Delivery for TV and APP channels)
  - And others more...
 
 #### 🌱  I’m currently learning ...
+ - Data Engineering.
+ - IRS Tax Systems in the USA
  - Blockchain
  - Cloud Services
- - Test Automation Architetures across JS libraries
- - HeathCare Systems around the world
+ - Test Automation Architectures across JS libraries
+ - Healthcare systems around the world
 
 #### 🤔  I’m looking to collaborate on ...
- - AI 
+ - AI Development
  - Blockchain
- - Data Mining 
- - Security
- - DevOps
+ - Data Science 
+ - Security Compliance
+ - DevOps & DevSecOps
 
 #### 🔭  I’m currently working on ...
  - JS Automation Frameworks
