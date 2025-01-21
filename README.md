@@ -1,16 +1,16 @@
 ### Hi there 👨‍💻
 
-As a seasoned Software Engineer with over 14 years of experience, I am passionate about crafting innovative technology solutions and transforming ambitious ideas into successful products from concept to completion. I thrive on the challenge of blending my learning enthusiasm, attention to detail, and teaching abilities with my software development and leadership expertise. My goal is to continuously create personalized and impactful products that enhance user experiences and drive internet innovations.
+As a seasoned Software Engineer with over 14 years of experience, I am passionate about crafting innovative technology solutions and transforming ambitious ideas into successful products from concept to completion. I thrive on the challenge of blending my learning enthusiasm, attention to detail, and teaching abilities with my software development and leadership expertise. I aim to continuously create personalized and impactful products that enhance user experiences and drive internet innovations.
 
 #### 💬  I was part of companies like ...
- - Equifax
- - Akamai
- - Encore Capital
- - SalesforceIQ
+ - Equifax (Data Exchange Bureau) 
+ - Akamai (Media Player and Playback Delivery)
+ - Encore Capital (Financial Services)
+ - SalesforceIQ (Marketing Platforms)
  - LumenUp (Double Digit -> Creative Drive Latam -> Now Acquisition of Accenture)
- - Hotel Tonight
- - Molekule
- - Insperity
+ - Hotel Tonight (Hotel booking systems)
+ - Molekule (IOT Devices for cleaning air with patented technologies)
+ - Insperity (Expense Management System)
  - VHS Lab (Web3 Blockchain Gaming Company in Australia)
  - Meez (Culinary System for restaurant production lines in NYC).
  - Fox Media (Media Delivery for TV and APP channels)
