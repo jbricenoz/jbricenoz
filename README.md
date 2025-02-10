@@ -11,7 +11,8 @@ As a seasoned Software Engineer with over 14 years of experience, I am passionat
  - Hotel Tonight (Hotel booking systems)
  - Molekule (IOT Devices for cleaning air with patented technologies)
  - Insperity (Expense Management System)
- - VHS Lab (Web3 Blockchain Gaming Company in Australia)
+ - VHS Lab (Web3 Blockchain Gaming Company in Australia).
+ - Datasite (Company Acquisitions Driver)
  - Meez (Culinary System for restaurant production lines in NYC).
  - Fox Media (Media Delivery for TV and APP channels)
  - And others more...
